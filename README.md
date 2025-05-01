@@ -12,3 +12,4 @@ A simple Python simulation of ant colony foraging behavior using pheromone trail
 ├── config.py # Constants and parameters 
 └── README.md ```
 
+asdf
