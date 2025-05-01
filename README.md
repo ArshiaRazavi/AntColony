@@ -4,10 +4,11 @@ A simple Python simulation of ant colony foraging behavior using pheromone trail
 
 ## 📦 Project Structure
 
-ant_simulation/ 
-├── main.py # Main simulation loop 
+'''ant_simulation/ 
+├── main.py # Main simulation loop  
 ├── ant.py # Ant class with movement and behavior 
 ├── environment.py # Grid with pheromones, food, and nest 
 ├── visualizer.py # Optional: visualization using matplotlib 
 ├── config.py # Constants and parameters 
-└── README.md 
+└── README.md '''
+
